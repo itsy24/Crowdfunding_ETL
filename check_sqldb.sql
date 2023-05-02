@@ -1,11 +1,11 @@
 SELECT *
-FROM campaign
+FROM campaign;
 
 SELECT *
-FROM category
+FROM category;
 
 SELECT *
-FROM subcategory
+FROM subcategory;
 
 SELECT *
-FROM contacts
+FROM contacts;
